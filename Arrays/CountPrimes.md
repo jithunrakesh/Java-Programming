@@ -3,6 +3,7 @@
 ## Approach 1 : Naive Method
 
 class Solution {
+
     public  static  boolean isPrime(int n)
     {
       for( int i = 2 ;i*i<=n;i++)
@@ -36,6 +37,7 @@ import java.io.*;
 import java.util.*;
 
  class Solution {
+ 
       public static void main(String args[])
       {
       
