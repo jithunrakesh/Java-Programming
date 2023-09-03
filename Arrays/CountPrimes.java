@@ -1,4 +1,4 @@
-<h1><b>To Count the number of Prime in Arrays</b></h1> 
+#To Count the number of Prime in Arrays<
 
 <h4>Approach 1 : Naive Method</h4>
 
