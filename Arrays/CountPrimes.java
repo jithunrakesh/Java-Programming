@@ -1,6 +1,6 @@
-#To Count the number of Prime in Arrays
+# To Count the number of Prime in Arrays
 
-##Approach 1 : Naive Method
+## Approach 1 : Naive Method
 
 
 class Solution {
@@ -32,7 +32,7 @@ class Solution {
 }
 }
 
-##Approach 2 : Seive of Eratosthenes
+## Approach 2 : Seive of Eratosthenes
 
 import java.io.*;
 import java.util.*;
